@@ -92,9 +92,6 @@
         <property name="text">
          <string/>
         </property>
-        <property name="placeholderText">
-         <string/>
-        </property>
        </widget>
       </item>
       <item row="2" column="1">
@@ -157,9 +154,6 @@
       <item row="8" column="1">
        <widget class="OwnLineEdit" name="lineEdit_baseaf">
         <property name="text">
-         <string/>
-        </property>
-        <property name="placeholderText">
          <string/>
         </property>
        </widget>
